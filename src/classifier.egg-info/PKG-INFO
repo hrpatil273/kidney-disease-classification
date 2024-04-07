@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: classifier
+Version: 0.0.0
+Summary: A Python package for classifying Kidney Diseases
+Home-page: https://github.com/hrpatil273/kidney-disease-classification
+Author: hrpatil273
+Author-email: mail.harshwardhanpatil@gmail.com
+Project-URL: Bug Tracker, https://github.com/hrpatil273/kidney-disease-classification/issues
+Description-Content-Type: text/markdown
+
+# kidney-disease-classification
+This is an End to end project implementation for classifying kidney diseases.
