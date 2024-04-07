@@ -1,0 +1,15 @@
+End to end kidney Disease Classification using MLFlow and DVC.
+
+1. Introduction and github repository setup
+2. Project template creation 
+3. Project setup and requirements installation
+4. Logging, utils and exception module
+5. Projects workflows
+6. All components notebook experiment
+7. All components modular code implementation
+8. Training Pipeline
+9. MLFlow
+10. DVC
+11. Prediction Pipeline
+12. Docker
+13. Final CI/CD Deployment on AWS
